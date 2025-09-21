@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        REPO_URL = 'https://github.com/username/kotlin-demo.git'
+        REPO_URL = 'https://github.com/Xofty1/testDocker.git'
         BRANCH   = 'main'
     }
 
